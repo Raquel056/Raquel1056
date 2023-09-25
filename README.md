@@ -9,3 +9,5 @@ meu nome e raquel
 ##voce entrar em contato comigo 📧
 
 brito.raquel@escola.pr.gov.br
+
+[Alura](https://www.alura.com.br)
