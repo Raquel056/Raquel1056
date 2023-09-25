@@ -1,1 +1,5 @@
-# Raquel1056
+# _bem vindo_ 🖤
+
+meu nome e raquel
+- estou estudando no Alura
+- estou me desenvolvendo 
